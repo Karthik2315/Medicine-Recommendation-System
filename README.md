@@ -32,14 +32,14 @@ A machine learning web application that recommends medicines based on user input
 - **Pandas**, **Scikit-learn** for ML
 - **Matplotlib/Seaborn** (if visualization is used)
 
-- 🧪 Development Workflow
-Use Main.ipynb to test and train models.
+## 🧪 Development Workflow
+-**Use Main.ipynb to test and train models.**
 
-Save your models into the models/ directory.
+-**Save your models into the models/ directory.**
 
-Move finalized logic to Main.py for deployment.
+-**Move finalized logic to Main.py for deployment.**
 
-🖼️ UI Assets
-Logos and other images are stored in the static/ folder.
+##🖼️ UI Assets
+_**Logos and other images are stored in the static/ folder.**
 
-Frontend templates are located in the templates/ directory.
+-**Frontend templates are located in the templates/ directory.**

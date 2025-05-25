@@ -6,13 +6,13 @@ A machine learning web application that recommends medicines based on user input
 
 ## 📁 Project Structure
 
-├── datasets/ # Contains datasets used for training/testing the ML model
-├── models/ # Stores trained machine learning models
-├── static/ # Contains static assets like PNG logos
-├── templates/ # HTML templates for the frontend UI
-├── Main.ipynb # Jupyter notebook used for model development and testing
-├── Main.py # Main backend script to run the web application
-└── README.md # Project documentation
+- datasets/ # Contains datasets used for training/testing the ML model
+-  models/ # Stores trained machine learning models
+-   static/ # Contains static assets like PNG logos
+-   templates/ # HTML templates for the frontend UI
+-   Main.ipynb # Jupyter notebook used for model development and testing
+-   Main.py # Main backend script to run the web application
+-  README.md # Project documentation
 
 ## 🚀 Features
 

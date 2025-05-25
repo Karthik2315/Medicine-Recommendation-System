@@ -40,6 +40,6 @@ A machine learning web application that recommends medicines based on user input
 - **Move finalized logic to Main.py for deployment.**
 
 ## 🖼️ UI Assets
-_ **Logos and other images are stored in the static/ folder.**
+- **Logos and other images are stored in the static/ folder.**
 
 - **Frontend templates are located in the templates/ directory.**

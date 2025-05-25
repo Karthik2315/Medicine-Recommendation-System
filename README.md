@@ -1,8 +1,11 @@
 # 💊 Medicine-Recommendation-System
 
-A machine learning web application that recommends medicines based on user input, trained using healthcare-related data.
+This is a machine learning-based web application that predicts the disease based on user-provided symptoms and provides a full health guidance package. The system not only recommends possible diseases but also includes:
 
----
+- ✅ Disease name and description
+- 🥗 Diet suggestions
+- 🏃‍♂️ Recommended workouts
+- ⚠️ Precautions
 
 ## 📁 Project Structure
 
